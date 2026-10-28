@@ -1,5 +1,6 @@
 import axios from "axios";
 
 export const AXIOS = axios.create({
-    baseURL: "https://js-lista-de-tarefas-api.onrender.com"
+    baseURL: "https://api-tarefas-455v.onrender.com"
+   // baseURL: "http://localhost:3000"
 })
